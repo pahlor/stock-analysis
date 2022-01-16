@@ -6,7 +6,7 @@ The purpose of this analysis was to collect and analyze stock information for 12
 
 To collect this data for the analysis, we needed to be able to identify the year (worksheet) in the dataset to pull the data from, reference the ticker values to tally the total daily volume and return for each ticker and each year where we had data available. Lastly, we had to output the data and analysis collected from our code into a new sheet in the workbook to reference and review the performance of the 12 stocks of interest.
 
-For copy of the dataset used in this project analysis, click [here](https://github.com/pahlor/stock-analysis/blob/main/Module2Challenge/VBA_Challenge.xlsm).
+For a copy of the dataset used in this project analysis, click [here](https://github.com/pahlor/stock-analysis/blob/main/Module2Challenge/VBA_Challenge.xlsm).
 
 #### *Screenshots of refractored code:*
 
@@ -16,11 +16,11 @@ For copy of the dataset used in this project analysis, click [here](https://gith
 ![](Module2Challenge/Resources/RefractoredCode4.png)
 
 ## **Results**
-After completing and running my refractored code, I compared my stock analysis outputs for both years, 2017 and 2018, to the outputs from the VBA code that was created during the module to confirm the outputs received from both codes were the same. Outputs from both the refractored code and the original code were the same.
+After completing and running my refractored code, I compared my stock analysis outputs for both years, 2017 and 2018, to the outputs from the VBA code that was created during the module to confirm the outputs received from both codes were the same. Outputs from both the refractored code and the original code were the same. This confirmed that my refractored code was collecting the desired data as the data outputted was the same from that outputted using the original code. 
 
-When we run the original code from the module, both of the run times for 2017 and 2018 stock data analyses were close to almost 1 second each (0.711 seconds for 2017 and 0.719 seconds for 2018). Using the refractored code, we find the run time to complete the analyses has significantly reduced in comparison (going down to 0.180 seconds for 2017 and 0.141 seconds for 2018 respectively).
+When I ran the original code from the module, both of the run times for 2017 and 2018 stock data analyses were close to almost 1 second each (0.711 seconds for 2017 and 0.719 seconds for 2018). Using the refractored code, I found the run time to complete the analyses had significantly reduced in comparison (going down to 0.180 seconds for 2017 and 0.141 seconds for 2018 respectively).
 
-Below are screenshots of the run time for the 2017 and 2018 analyses using the refractored code. Run times for both years using the refractored code were below 1 second each. The run time for  
+Below are screenshots of the run time for the 2017 and 2018 analyses using the refractored code. 
 
 ###### *2017 Stocks Analysis Run Time (using refractored code):*
 ![](Module2Challenge/Resources/VBA_Challenge_2017.png)
