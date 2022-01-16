@@ -8,7 +8,7 @@ To collect this data for the analysis, we needed to be able to identify the year
 
 For a copy of the dataset used in this project analysis, click [here](https://github.com/pahlor/stock-analysis/blob/main/Module2Challenge/VBA_Challenge.xlsm).
 
-#### *Screenshots of refractored code:*
+##### *Screenshots of refractored code:*
 
 ![](Module2Challenge/Resources/RefractoredCode1.png)
 ![](Module2Challenge/Resources/RefractoredCode2.png)
